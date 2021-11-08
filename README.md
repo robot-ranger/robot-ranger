@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @robot-ranger
+- 👀 I’m interested in Cobotic automation
+- 🌱 I’m currently learning industry protocols
+- 💞️ I’m looking to collaborate on cobotic machine tending
+- 📫 How to reach me ...
